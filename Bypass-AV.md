@@ -39,6 +39,10 @@ markmap:
 
 - <https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/>
 
+### Ruby
+
+- <https://blog.king-sabri.net/red-team/how-to-execute-raw-shellcode-using-ruby-on-windows-and-linux>
+
 ## Automatic loader
 
 ### C++
