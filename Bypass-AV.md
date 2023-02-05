@@ -7,7 +7,7 @@ markmap:
 
 ## Manual loader
 
-### Steps
+### Reminder
 
 1. allocating memory
 2. moving shellcode into that memory
@@ -312,6 +312,7 @@ markmap:
 - [michmich1000](https://github.com/michmich1000)
 - [@Zabannn](https://twitter.com/Zabannn)
 - [@noraj_rawsec](https://twitter.com/noraj_rawsec)
+- [@lapinousexy](https://github.com/lap1nou)
 
 ## Pro tips : A shellcode sent in 3 open sources packer will have more chance to be caught than a manual obfuscation
 
