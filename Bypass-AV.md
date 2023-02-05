@@ -46,9 +46,6 @@ markmap:
 - <https://github.com/TheD1rkMtr/D1rkLrd>
 - <https://github.com/xuanxuan0/DripLoader>
 - <https://github.com/Hagrid29/PELoader>
-
-### python
-
 - <https://github.com/icyguider/Shhhloader>
 
 ### C
