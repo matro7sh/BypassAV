@@ -1,0 +1,34 @@
+name: Generate the new index.html if necessary and upload as artifact
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-index-html:
+    name: Validate Go code linting
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set Node.js 16.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+      - name: Install markmap-cli
+        run: npm install -g markmap-cli
+      - name: Run markmap-cli to export as HTML
+        run: markmap Bypass-AV.md -o docs/index.html
+      - name: Run markmap-cli to export as HTML
+        run: markmap Bypass-AV.md -o docs/index.html
+      - name: Commit the new HTML index file if necessary
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Auto-update the index.html
+          file_pattern: docs/index.html
+      - uses: actions/upload-artifact@v3
+        with:
+          name: index.html
+          path: docs/index.html
