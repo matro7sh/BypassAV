@@ -51,6 +51,7 @@ markmap:
 - <https://github.com/xuanxuan0/DripLoader>
 - <https://github.com/Hagrid29/PELoader>
 - <https://github.com/icyguider/Shhhloader>
+- <<https://github.com/TheD1rkMtr/Shellcode-Hide>
 
 ### C
 
