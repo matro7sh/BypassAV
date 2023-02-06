@@ -209,6 +209,8 @@ markmap:
 
 - <https://www.ired.team/offensive-security/code-injection-process-injection/process-hollowing-and-pe-image-relocations#relocation>
 - <https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/>
+- <https://0xsp.com/security%20research%20%20development%20srd/defeat-the-castle-bypass-av-advanced-xdr-solutions/>
+- <https://github.com/0xsp-SRD/mortar>
 
 ### Thread execution hijacking
 
@@ -225,7 +227,9 @@ markmap:
 - Reflective dll injection
   - <https://disman.tl/2015/01/30/an-improved-reflective-dll-injection-technique.html>
 - <https://github.com/fancycode/MemoryModule>
--
+- <https://github.com/TheD1rkMtr/NTDLLReflection>
+- <https://github.com/reveng007/ReflectiveNtdll>
+
 <https://www.ired.team/offensive-security/code-injection-process-injection/dll-injection>
 - DLL Sideloading & Proxying
   - <https://book.hacktricks.xyz/windows-hardening/windows-av-bypass#dll-sideloading-and-proxying>
