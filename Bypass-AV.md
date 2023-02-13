@@ -5,6 +5,17 @@ markmap:
 ---
 # Bypass AV
 
+## Manual dropper
+
+### C++
+
+- <https://blog.securityevaluators.com/creating-av-resistant-malware-part-1-7604b83ea0c0>
+
+
+## Automatic dropper
+
+- <https://github.com/marcusbotacin/Dropper>
+
 ## Manual loader
 
 ### Reminder
@@ -48,13 +59,15 @@ markmap:
 ### C++
 
 - <https://github.com/TheD1rkMtr/D1rkLrd>
+- <https://github.com/vic4key/QLoader>
 - <https://github.com/xuanxuan0/DripLoader>
 - <https://github.com/Hagrid29/PELoader>
 - <https://github.com/icyguider/Shhhloader>
-- <<https://github.com/TheD1rkMtr/Shellcode-Hide>
+- <https://github.com/TheD1rkMtr/Shellcode-Hide>
 
 ### C
 
+- <https://github.com/CMEPW/Selha/blob/main/C/aes-loader-stageless.c>
 - <https://github.com/cribdragg3r/Alaris>
 - <https://github.com/trustedsec/COFFLoader>
 
@@ -64,7 +77,7 @@ markmap:
 - <https://github.com/sh3d0ww01f/nim_shellloader>
 
 ### Go
-
+- <https://github.com/CMEPW/myph>
 - <https://github.com/EddieIvan01/gld>
 - <https://github.com/zha0gongz1/DesertFox>
 
@@ -158,6 +171,7 @@ markmap:
   - <https://github.com/Nariod/RustPacker>
   - <https://github.com/DavidBuchanan314/monomorph>
   - <https://github.com/upx/upx>
+  - <https://github.com/EgeBalci/sgn>
 - AMSI Bypass
   - <https://github.com/CCob/SharpBlock>
   - <https://github.com/danielbohannon/Invoke-Obfuscation>
