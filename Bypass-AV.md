@@ -115,6 +115,7 @@ markmap:
 
 - Packing
   - <https://pentester.blog/?p=39>
+  - <https://github.com/frank2/packer-tutorial>
 - Polymorph
   - <https://www.exploit-db.com/papers/13874>
 - Signature hiding
@@ -219,6 +220,8 @@ markmap:
 ### APC (Asyncronous Procedure Call)
 
 - <https://subscription.packtpub.com/book/security/9781789610789/8/ch08lvl1sec50/executing-the-inject-code-using-apc-queuing>
+- <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection>
+- <https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/>
 
 ### Process hollowing
 
