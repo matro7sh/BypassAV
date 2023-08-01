@@ -38,7 +38,7 @@ markmap:
     }
 
     return 0;
-  }https://djnn.sh/what-i-learned-https://djnn.sh/what-i-learned-writing-a-loader-in-golang/writing-a-loader-in-golang/
+  }
   ```
 
 ### C++
@@ -191,10 +191,10 @@ markmap:
   - <https://github.com/optiv/ScareCrow>
     - `ScareCrow -I /Path/To/ShellCode -d facebook.com`
   - <https://github.com/paranoidninja/CarbonCopy>
-- LOLBINhttps://djnn.sh/what-i-learned-writing-a-loader-in-golang/
+- LOLBIN
   - RemComSvc
     - <https://gist.github.com/snovvcrash/123945e8f06c7182769846265637fedb>
-- Entropyhttps://djnn.sh/what-i-learned-writing-a-loader-in-golang/
+- Entropy
   - <https://github.com/kleiton0x00/Shelltropy>
 
 ### Dynamic
@@ -253,7 +253,7 @@ markmap:
 ### Dll injection
 
 - Reflective dll injection
-  - <https://disman.tl/2015/https://djnn.sh/what-i-learned-writing-a-loader-in-golang/01/30/an-improved-reflective-dll-injection-technique.html>
+  - <https://disman.tl/2015/01/30/an-improved-reflective-dll-injection-technique.html>
 - <https://github.com/fancycode/MemoryModule>
 - <https://github.com/TheD1rkMtr/NTDLLReflection>
 - <https://github.com/reveng007/ReflectiveNtdll>
