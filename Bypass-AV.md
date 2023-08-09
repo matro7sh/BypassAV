@@ -218,7 +218,7 @@ markmap:
   - <https://github.com/CCob/SharpBlock>
 -  Detect virtual machines
   - <https://github.com/a0rtega/pafish>
-  - `(Get-CimInstance -Namespace root/CIMV2 -ClassName Win32_Fan).count` (count system fans -- can fail of some laptops)
+  - `(Get-CimInstance -Namespace root/CIMV2 -ClassName Win32_Fan).count` (count system fans -- can fail on some laptops)
   - <https://evasions.checkpoint.com/>
   - <https://www.picussecurity.com/resource/virtualization/sandbox-evasion-how-attackers-avoid-malware-analysis>
 
@@ -291,7 +291,9 @@ markmap:
   - if >=40 its probably not a VM
 - User interaction
   - Send MessageBoxW
+  - Check mouse position, sleep 5 seconds, then check again
 - Check for internet
+  - High uptime but low bandwidth is red flag in some cases
 - Datetime on compilation
 - Check for Computer name
   - VM = DESKTOP-[0-9A-Z]{7}
@@ -301,6 +303,8 @@ markmap:
 - CPUID timing
   - <https://github.com/CMEPW/bof-collection/blob/main/src/checkVM/checkVM2.c>
 - Typical user workstation has a processor with at least 2 cores, a minimum of 2 GB of RAM and a 100 GB hard drive
+- Count system fans
+  - 0 **could** mean it is a VM (some laptops are cooled passively)
 
 ### OSX
 
