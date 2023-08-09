@@ -70,22 +70,31 @@ markmap:
 - <https://github.com/CMEPW/Selha/blob/main/C/aes-loader-stageless.c>
 - <https://github.com/cribdragg3r/Alaris>
 - <https://github.com/trustedsec/COFFLoader>
+- <https://github.com/stephenfewer/ReflectiveDLLInjection>
+- <https://github.com/Cracked5pider/KaynLdr>
+- <https://github.com/mgeeky/ElusiveMice>
+- <https://github.com/boku7/BokuLoader>
 
 ### Nim
 
 - <https://github.com/aeverj/NimShellCodeLoader>
 - <https://github.com/sh3d0ww01f/nim_shellloader>
+- <https://github.com/S3cur3Th1sSh1t/Nim-RunPE>
 
 ### Go
 - <https://github.com/CMEPW/myph>
 - <https://github.com/EddieIvan01/gld>
 - <https://github.com/zha0gongz1/DesertFox>
+- <https://djnn.sh/what-i-learned-writing-a-loader-in-golang>
+- <https://github.com/Ne0nd0g/go-shellcode>
+- <https://github.com/f1zm0/hades>
 
 ### Rust
 
 - <https://github.com/b1tg/rs_shellcode>
 - <https://github.com/r4ime/shellcode_loader>
 - <https://github.com/cr7pt0pl4gu3/Pestilence>
+- <https://github.com/memN0ps/srdi-rs>
 
 ### Crystal
 
@@ -233,6 +242,7 @@ markmap:
 - <https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/>
 - <https://0xsp.com/security%20research%20%20development%20srd/defeat-the-castle-bypass-av-advanced-xdr-solutions/>
 - <https://github.com/0xsp-SRD/mortar>
+- <https://www.blackhat.com/docs/asia-17/materials/asia-17-KA-What-Malware-Authors-Don't-Want-You-To-Know-Evasive-Hollow-Process-Injection-wp.pdf>
 
 ### Thread execution hijacking
 
@@ -339,6 +349,7 @@ markmap:
 - [@Zabannn](https://twitter.com/Zabannn)
 - [@noraj_rawsec](https://twitter.com/noraj_rawsec)
 - [@lapinousexy](https://github.com/lap1nou)
+- [@djnn](https://github.com/bogdzn)
 
-## Pro tips : A shellcode sent in 3 open sources packer will have more chance to be caught than a manual obfuscation
+## Pro tips : A shellcode going through 3 open-source packers will have more chance to get detected than a manual obfuscation
 
