@@ -209,6 +209,10 @@ markmap:
   - <https://github.com/CCob/SharpBlock>
 -  Detect virtual machines
   - <https://github.com/a0rtega/pafish>
+  - `(Get-CimInstance -Namespace root/CIMV2 -ClassName Win32_Fan).count` (count system fans -- can fail of some laptops)
+  - <https://evasions.checkpoint.com/>
+  - <https://www.picussecurity.com/resource/virtualization/sandbox-evasion-how-attackers-avoid-malware-analysis>
+
 
 ## Process injection
 
