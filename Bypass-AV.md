@@ -24,6 +24,10 @@ markmap:
 2. moving shellcode into that memory
 3. executing the shellcode
 
+### Go
+
+- <https://djnn.sh/what-i-learned-writing-a-loader-in-golang>
+
 ### C
 
 -
@@ -67,7 +71,7 @@ markmap:
 
 ### C
 
-- <https://github.com/CMEPW/Selha/blob/main/C/aes-loader-stageless.c>
+- <https://github.com/matro7sh/Selha/blob/main/C/aes-loader-stageless.c>
 - <https://github.com/cribdragg3r/Alaris>
 - <https://github.com/trustedsec/COFFLoader>
 - <https://github.com/stephenfewer/ReflectiveDLLInjection>
@@ -80,12 +84,13 @@ markmap:
 - <https://github.com/aeverj/NimShellCodeLoader>
 - <https://github.com/sh3d0ww01f/nim_shellloader>
 - <https://github.com/S3cur3Th1sSh1t/Nim-RunPE>
+- <https://github.com/xl00t/yetAnotherNimCrypt>
 
 ### Go
-- <https://github.com/CMEPW/myph>
+- <https://github.com/matro7sh/myph>
+- <https://github.com/matro7sh/221b>
 - <https://github.com/EddieIvan01/gld>
 - <https://github.com/zha0gongz1/DesertFox>
-- <https://djnn.sh/what-i-learned-writing-a-loader-in-golang>
 - <https://github.com/Ne0nd0g/go-shellcode>
 - <https://github.com/f1zm0/hades>
 
@@ -295,7 +300,7 @@ markmap:
 ### Hardware
 
 - CPUID timing
-  - <https://github.com/CMEPW/bof-collection/blob/main/src/checkVM/checkVM2.c>
+  - <https://github.com/matro7sh/bof-collection/blob/main/src/checkVM/checkVM2.c>
 - Typical user workstation has a processor with at least 2 cores, a minimum of 2 GB of RAM and a 100 GB hard drive
 
 ### OSX
@@ -311,6 +316,9 @@ markmap:
 - <https://github.com/S4ntiagoP/donut/tree/syscalls>
 - <https://github.com/hasherezade/pe_to_shellcode>
 - <https://github.com/monoxgas/sRDI>
+
+## From .exe (build with .net) to .exe hidden
+ - <https://github.com/mkaring/ConfuserEx/releases/tag/v1.6.0>
 
 ## From alive beacon
 

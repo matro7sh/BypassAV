@@ -10,7 +10,7 @@ This map lists the essential techniques to bypass anti-virus and EDR
 
 ## Edit the Markdown / HTML version
 
-[Bypass-AV.md](Bypass-AV.md) is made using [MarkMap](https://markmap.js.org/). You can preview it online at [cmepw.github.io/BypassAV](https://cmepw.github.io/BypassAV/).
+[Bypass-AV.md](Bypass-AV.md) is made using [MarkMap](https://markmap.js.org/). You can preview it online at [matro7sh.github.io/BypassAV](matro7sh.github.io/BypassAV/).
 
 You can edit / preview it with some plugins:
 
