@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
-      - name: Set Node.js 16.x
-        uses: actions/setup-node@v3
+        uses: actions/checkout@v4
+      - name: Set Node.js 22.x
+        uses: actions/setup-node@v4
         with:
-          node-version: 16.x
+          node-version: 22.x
       - name: Install markmap-cli
         run: npm install -g markmap-cli
       - name: Run markmap-cli to export as HTML
