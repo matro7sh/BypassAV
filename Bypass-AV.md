@@ -60,14 +60,16 @@ markmap:
 
 ## Automatic loader
 
-### C++
+### C++/C#
 
 - <https://github.com/TheD1rkMtr/D1rkLrd>
+- <https://github.com/NtDallas/Ulfberht>
 - <https://github.com/vic4key/QLoader>
 - <https://github.com/xuanxuan0/DripLoader>
 - <https://github.com/Hagrid29/PELoader>
 - <https://github.com/icyguider/Shhhloader>
 - <https://github.com/TheD1rkMtr/Shellcode-Hide>
+- <https://github.com/ProcessusT/Dictofuscation>
 
 ### C
 
@@ -93,6 +95,7 @@ markmap:
 - <https://github.com/zha0gongz1/DesertFox>
 - <https://github.com/Ne0nd0g/go-shellcode>
 - <https://github.com/f1zm0/hades>
+- <https://github.com/D3Ext/Hooka>
 
 ### Rust
 
@@ -149,6 +152,8 @@ markmap:
   - <https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/>
   - <https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/>
 - Description
+- Add signature
+  - <https://gist.github.com/jenaye/a0132882fed7072ea2bce33da40e0de5>
 
 ### dynamic
 
