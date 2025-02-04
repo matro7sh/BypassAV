@@ -103,6 +103,7 @@ markmap:
 - <https://github.com/r4ime/shellcode_loader>
 - <https://github.com/cr7pt0pl4gu3/Pestilence>
 - <https://github.com/memN0ps/srdi-rs>
+- <https://github.com/BlackSnufkin/NovaLdr>
 
 ### Crystal
 
