@@ -28,7 +28,7 @@ jobs:
         with:
           commit_message: Auto-update the index.html
           file_pattern: docs/index.html
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: index.html
           path: docs/index.html
